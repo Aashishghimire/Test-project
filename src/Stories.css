@@ -1,0 +1,15 @@
+.stories{
+    border: 1px solid lightgray;
+    margin-top: -80% ;
+    margin-left: 21%;
+    width: 33%;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    height: 20%;
+    display: flex;
+}
+
+.stories_post{
+    padding-left: 2%;
+}
+

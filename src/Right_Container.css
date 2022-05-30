@@ -1,0 +1,61 @@
+.Right_Container{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: -70%;    
+    width: 23%;
+}
+
+.Right_Container_Header{
+    display: flex;
+    align-items: center;
+}
+
+.Right_Container_Header h3{
+    margin-left: 5%;
+}
+
+.Suggestion_User{
+    padding-top: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.Suggestion_User h4{
+    margin-left: 5%;
+}
+
+.suggestion{
+    display: flex;
+    color: #909090;
+    padding-top:8%;
+    font-weight: bold;
+}
+
+.see_all{
+    font-weight: bold;
+    padding-left: 20%;
+    border: none;
+    background-color: #FAFAFA;
+}
+
+.Suggestion_Followed{
+    margin-left: 17%;
+}
+
+.follow{
+    padding-right: 10%;
+    border: none;
+    background-color: #FAFAFA;
+    color: #1DA0F6;
+    font-size: medium;
+}
+
+.footer_button{
+    border: none;
+    background-color: #fafafa;
+    color: #909090;
+}
+
+.right_container_footer{
+    margin-top: 5%;
+}
